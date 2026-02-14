@@ -25,7 +25,7 @@
 
 ---
 
-# 🧠 ABOUT ME
+# ABOUT ME
 
 Undergraduate exploring and building real-world AI systems while working toward becoming a professional AI engineer.
 
@@ -39,7 +39,7 @@ Focus Areas:
 
 ---
 
-# 🧩 ENGINEERING SIGNALS
+# ENGINEERING SIGNALS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-6D28D9?style=for-the-badge"/>
@@ -50,7 +50,7 @@ Focus Areas:
 
 ---
 
-# 🧠 ENGINEERING PHILOSOPHY
+# ENGINEERING PHILOSOPHY
 
 - Build systems, not scripts  
 - Learn by building real-world projects  
@@ -59,7 +59,7 @@ Focus Areas:
 
 ---
 
-# 🚀 FEATURED SYSTEMS
+# FEATURED SYSTEMS
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumanth1410-git&repo=SOLARIS-X&theme=tokyonight"/>
@@ -70,58 +70,167 @@ Focus Areas:
 
 ---
 
-## 🌌 SOLARIS-X — Geomagnetic Storm Prediction Engine
+## SOLARIS-X: Geomagnetic Storm Prediction Engine
 
-Problem: Space weather forecasting needs accurate prediction models.
+Problem:
+Space weather forecasting requires accurate prediction of geomagnetic disturbances to reduce risks to satellites, communication systems, and infrastructure.
 
-Solution: Built ML ensemble system using historical solar datasets.
-
-Highlights:
-
-- Time-series feature engineering
-- Model evaluation pipelines
-- Production-style experimentation
-
-Impact:
-
-- High AUC performance
-- Real scientific dataset application
-
----
-
-## 📄 Internal Docs AI Agent (Enterprise RAG)
-
-Problem: Internal knowledge scattered across documents.
-
-Solution: Designed Retrieval-augmented AI assistant.
+Solution:
+Designed an ML-based prediction engine using historical solar activity datasets and time-series modeling techniques to forecast geomagnetic storm events.
 
 Highlights:
 
-- Semantic retrieval pipelines
-- Embedding search experimentation
-- AI agent workflow design
+- Advanced time-series feature engineering
+- Ensemble model experimentation and evaluation
+- Data preprocessing pipelines for scientific datasets
+- Performance benchmarking and validation workflows
+- Research-oriented ML experimentation
+
+Tech Stack:
+
+Python, Scikit-learn, Pandas, NumPy, Time-series ML
 
 Impact:
 
-- Context-aware enterprise Q&A
+- Demonstrated high AUC prediction performance
+- Applied ML to real-world scientific problem domain
+- Showcases ability to work with complex research datasets
 
 ---
 
-## 🧬 Human Transcriptomics Analysis
+## Internal Docs AI Agent: Enterprise RAG Knowledge Assistant
 
-- Bioinformatics data exploration
+Problem:
+Organizations struggle with fragmented internal knowledge spread across multiple documentation platforms, causing productivity loss.
+
+Solution:
+Built an AI-powered Retrieval-Augmented Generation (RAG) assistant that indexes internal documents and answers contextual queries using semantic search.
+
+Highlights:
+
+- Semantic vector search pipelines
+- Embedding-based document retrieval
+- Multi-step AI agent workflow design
+- Context-aware response generation
+- Experimentation with enterprise-scale knowledge systems
+
+Tech Stack:
+
+Python, LLM APIs, Vector embeddings, RAG architecture, Streamlit
+
+Impact:
+
+- Enables context-aware enterprise Q&A
+- Demonstrates modern AI system architecture skills
+- Real-world enterprise AI workflow simulation
+
+---
+
+## Human Transcriptomics Analysis: Bioinformatics ML Exploration
+
+Problem:
+Biological datasets are high-dimensional and require computational analysis to extract meaningful insights.
+
+Solution:
+Performed transcriptomic data exploration and applied machine learning techniques to analyze gene expression patterns.
+
+Highlights:
+
+- Data cleaning and preprocessing for biological datasets
+- Exploratory data analysis (EDA)
 - Machine learning experimentation
+- Feature interpretation and visualization
+
+Tech Stack:
+
+Python, Pandas, Bioinformatics datasets, ML experimentation
+
+Impact:
+
+- Applied AI techniques to biomedical data
+- Demonstrates cross-domain analytical capability
 
 ---
 
-## 🧠 Mental Health Prediction Project
+## Mental Health Prediction System: Applied Machine Learning
 
-- Applied ML classification techniques
-- Dataset preprocessing & model testing
+Problem:
+Mental health risk detection using behavioral and survey data requires predictive modeling approaches.
+
+Solution:
+Developed classification models to predict mental health outcomes based on dataset features.
+
+Highlights:
+
+- Data preprocessing and feature engineering
+- Multiple classification model comparisons
+- Model evaluation and performance analysis
+- ML pipeline design
+
+Tech Stack:
+
+Python, Scikit-learn, Data preprocessing pipelines
+
+Impact:
+
+- Demonstrates practical ML workflow understanding
+- Shows applied problem-solving using AI models
 
 ---
 
-# 🛠️ TECH STACK
+## StreetVendor Platform: Smart Raw Material Sourcing System
+
+Problem:
+Indian street food vendors struggle with fragmented supplier networks and inconsistent raw material pricing.
+
+Solution:
+Designed a web-based platform connecting vendors with verified suppliers including AI-driven matchmaking for group orders.
+
+Highlights:
+
+- Real-time pricing dashboard concept
+- Vendor matchmaking algorithm design
+- Supplier rating and review system
+- Delivery ETA tracking logic
+- Practical problem-focused web architecture
+
+Tech Stack:
+
+Web Development Stack, AI Matching Logic, UI/UX System Design
+
+Impact:
+
+- Real-world problem-solving focused on local economic needs
+- Demonstrates product-thinking mindset
+
+---
+
+## Auto Accident Alert System: Intelligent Emergency Detection
+
+Problem:
+Delayed emergency response increases risk during road accidents.
+
+Solution:
+Developed an automated alert system that detects accidents and triggers emergency notifications.
+
+Highlights:
+
+- Sensor/data-driven detection logic
+- Automated alert workflow design
+- Safety-focused system architecture
+
+Tech Stack:
+
+Python / Embedded Logic (adapt based on implementation)
+
+Impact:
+
+- Safety-oriented AI application
+- Demonstrates applied engineering for real-world scenarios
+
+---
+
+# TECH STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,linux,typescript,js,sql"/>
@@ -131,7 +240,7 @@ Machine Learning • Deep Learning • NLP • Transformers • RAG • AI Agent
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# GITHUB ANALYTICS
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sumanth1410-git&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -144,7 +253,7 @@ Machine Learning • Deep Learning • NLP • Transformers • RAG • AI Agent
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# CONTRIBUTION SNAKE
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sumanth1410-git/Sumanth1410-git/output/github-contribution-grid-snake.svg"/>
