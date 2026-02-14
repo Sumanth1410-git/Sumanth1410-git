@@ -39,7 +39,27 @@ Focus Areas:
 - Deep Learning
 - End-to-end AI products
 
+
 ---
+
+# 🧩 ENGINEERING SIGNALS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialization-Machine%20Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Building-Real%20World%20Systems-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-RAG%20%26%20AI%20Agents-black?style=for-the-badge"/>
+</p>
+
+---
+
+# 🧠 ENGINEERING PHILOSOPHY
+
+- Build systems, not scripts
+- Focus on real-world impact
+- Data-driven iteration
+- Research mindset with product execution
+
 
 # 🚀 FEATURED SYSTEMS (Engineering Focus)
 
