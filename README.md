@@ -41,18 +41,51 @@ Focus Areas:
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 FEATURED SYSTEMS (Engineering Focus)
 
-<!-- Live Project Cards -->
 <p align="center">
-<a href="https://github.com/Sumanth1410-git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=SOLARIS-X&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Sumanth1410-git">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=internal-docs-agent&theme=tokyonight"/>
-</a>
 </p>
+
+---
+
+## 🌌 SOLARIS-X — Geomagnetic Storm Prediction Engine
+
+**Problem:**  
+Space weather forecasting requires accurate long-range prediction models.
+
+**Solution:**  
+Built a machine learning ensemble system using historical solar datasets and optimized decision thresholds.
+
+**Engineering Highlights:**
+- Time-series feature engineering
+- Model evaluation & optimization
+- Production-style prediction pipeline
+
+**Impact:**
+- High AUC performance (~98%)
+- Real-world scientific dataset application
+
+---
+
+## 📄 Internal Docs AI Agent (Enterprise RAG)
+
+**Problem:**  
+Organizations struggle retrieving information from scattered internal documents.
+
+**Solution:**  
+Designed an AI assistant using retrieval-augmented generation (RAG) architecture.
+
+**Engineering Highlights:**
+- Semantic search pipelines
+- Embedding-based retrieval
+- AI agent workflow design
+
+**Impact:**
+- Context-aware question answering
+- Enterprise-style AI system design
+
 
 ---
 
