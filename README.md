@@ -19,7 +19,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋 I'm P Sumanth</h1>
+<h1 align="center">Hi! I'm P Sumanth</h1>
 
 <p align="center">
 AI Engineer • Generative AI • Machine Learning • Intelligent Systems
