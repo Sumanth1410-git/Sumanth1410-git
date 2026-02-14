@@ -10,12 +10,14 @@
 <!-- Animated Typing Intro -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Systems+Builder;RAG+%26+AI+Agents;Deep+Learning+Enthusiast;Building+Real-World+AI+Products"/>
-<img src="https://img.shields.io/badge/AI%20Engineer-Intelligent%20Systems-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Production%20Focused-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-RAG%20%26%20Agents-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-NLP%20%7C%20Transformers-black?style=for-the-badge"/>
-
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Intelligent%20Systems-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Production%20Focused-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-RAG%20%26%20Agents-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-NLP%20%7C%20Transformers-black?style=for-the-badge"/>
+</p>
+
 
 <h1 align="center">Hi 👋 I'm P Sumanth</h1>
 
