@@ -30,7 +30,6 @@
 <br/><br/>
 
 ---
-
 # 🧠 ABOUT ME
 
 Undergraduate exploring and building real-world AI systems while working toward becoming a professional AI engineer.
@@ -110,7 +109,10 @@ An AI-powered Retrieval-Augmented Generation system designed to answer contextua
 - Simulates enterprise-scale knowledge systems
 - Shows applied understanding of LLM-driven architectures
 
----
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95AA,100:065F46AA&height=5"/>
+</p>
 <br/><br/>
 
 # FEATURED SYSTEMS
@@ -337,9 +339,9 @@ srcset="https://raw.githubusercontent.com/Sumanth1410-git/Sumanth1410-git/output
 
 </picture>
 </p>
-
-
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95AA,100:065F46AA&height=5"/>
+</p>
 
 # 🎯 CURRENT FOCUS
 
@@ -348,8 +350,16 @@ srcset="https://raw.githubusercontent.com/Sumanth1410-git/Sumanth1410-git/output
 - Advanced RAG experimentation
 
 ---
-
 ⭐ Building toward becoming an AI engineer through real-world projects.
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Sumanth1410-git">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
 <!--
 AI Engineer
 Machine Learning Engineer
