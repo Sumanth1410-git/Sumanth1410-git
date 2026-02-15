@@ -54,7 +54,7 @@ Focus Areas:
 
 - Build systems, not scripts  
 - Learn by building real-world projects  
-- Data-driven iteration  
+- Data-driven iteration
 - Research mindset with practical execution
 
 ---
@@ -70,7 +70,7 @@ Focus Areas:
 
 ---
 
-## SOLARIS-X: Geomagnetic Storm Prediction Engine
+## 1. SOLARIS-X: Geomagnetic Storm Prediction Engine
 
 Problem:
 Space weather forecasting requires accurate prediction of geomagnetic disturbances to reduce risks to satellites, communication systems, and infrastructure.
@@ -98,7 +98,7 @@ Impact:
 
 ---
 
-## Internal Docs AI Agent: Enterprise RAG Knowledge Assistant
+## 2. Internal Docs AI Agent: Enterprise RAG Knowledge Assistant
 
 Problem:
 Organizations struggle with fragmented internal knowledge spread across multiple documentation platforms, causing productivity loss.
@@ -126,7 +126,7 @@ Impact:
 
 ---
 
-## Human Transcriptomics Analysis: Bioinformatics ML Exploration
+## 3. Human Transcriptomics Analysis: Bioinformatics ML Exploration
 
 Problem:
 Biological datasets are high-dimensional and require computational analysis to extract meaningful insights.
@@ -152,7 +152,7 @@ Impact:
 
 ---
 
-## Mental Health Prediction System: Applied Machine Learning
+## 4. Mental Health Prediction System: Applied Machine Learning
 
 Problem:
 Mental health risk detection using behavioral and survey data requires predictive modeling approaches.
@@ -178,7 +178,7 @@ Impact:
 
 ---
 
-## StreetVendor Platform: Smart Raw Material Sourcing System
+## 5. StreetVendor Platform: Smart Raw Material Sourcing System
 
 Problem:
 Indian street food vendors struggle with fragmented supplier networks and inconsistent raw material pricing.
@@ -205,7 +205,7 @@ Impact:
 
 ---
 
-## Auto Accident Alert System: Intelligent Emergency Detection
+## 6. Auto Accident Alert System: Intelligent Emergency Detection
 
 Problem:
 Delayed emergency response increases risk during road accidents.
