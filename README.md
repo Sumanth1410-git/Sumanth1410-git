@@ -277,3 +277,12 @@ Machine Learning • Deep Learning • NLP • Transformers • RAG • AI Agent
 ---
 
 ⭐ Building toward becoming an AI engineer through real-world projects.
+<!--
+AI Engineer
+Machine Learning Engineer
+Generative AI Developer
+RAG Developer
+LLM Engineer
+Python AI Developer
+AI Systems Builder
+-->
