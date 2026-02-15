@@ -242,8 +242,6 @@ Machine Learning • Deep Learning • NLP • Transformers • RAG • AI Agent
 
 # GITHUB ANALYTICS
 
-# 📊 GITHUB ANALYTICS
-
 <p align="center">
 <img height="170em" src="[https://github-readme-stats.vercel.app/api?username=Sumanth1410-git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sumanth1410-git
 )&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -251,6 +249,9 @@ Machine Learning • Deep Learning • NLP • Transformers • RAG • AI Agent
 </p>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanth1410-git&theme=tokyo-night&hide_border=true"/>
+</p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=sumanth1410-git&label=Profile%20views&theme=tokyo-night&hide_border=true" alt="sumanth1410-git" /> 
 </p>
 
 ---
