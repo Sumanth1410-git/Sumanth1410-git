@@ -6,6 +6,10 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,40:4C1D95,70:065F46,100:7F1D1D&height=300&section=header&text=P%20Sumanth&fontSize=50&fontColor=FFD700&animation=fadeIn&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20Explorer&descAlignY=70"/>
 </p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95AA,100:065F46AA&height=2"/>
+</p>
+
 
 <!-- Animated Typing Intro (Royal Purple / Emerald tone) -->
 <p align="center">
@@ -18,18 +22,16 @@
   <img src="https://img.shields.io/badge/Generative%20AI-RAG%20%26%20Agents-7F1D1D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-NLP%20%7C%20Transformers-1E3A8A?style=for-the-badge"/>
 </p>
-
 <br/>
 
 <p align="center">
 <b>Machine Learning • Generative AI • Intelligent Systems</b>
 </p>
-
 <br/><br/>
 
 ---
 
-# ABOUT ME
+# 🧠 ABOUT ME
 
 Undergraduate exploring and building real-world AI systems while working toward becoming a professional AI engineer.
 
@@ -59,9 +61,57 @@ Focus Areas:
 - Build systems, not scripts  
 - Learn by building real-world projects  
 - Data-driven iteration
-- Research mindset with practical execution
+- Research mindset with practical execution 
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C1D95,100:065F46&section=footer"/>
+<br/><br/>
+
+
+> 🧪 Selected flagship systems demonstrating applied AI engineering exploration.
+## ⭐ Spotlight Engineering Projects
+
+These projects represent my strongest exploration toward becoming an AI engineer — focusing on real-world system design, applied machine learning, and modern AI architectures.
 
 ---
+
+### 🌌 SOLARIS-X — Geomagnetic Storm Prediction Engine
+
+A machine learning system designed to forecast geomagnetic storm activity using historical solar datasets and time-series modelling.
+
+🚀 Engineering Signals:
+
+- Scientific dataset handling and preprocessing
+- Advanced time-series feature engineering
+- Ensemble model experimentation and evaluation
+- Research-oriented ML workflow
+
+🧠 Why it matters:
+
+- Applies AI to real scientific prediction problems
+- Demonstrates experimental rigor and model evaluation mindset
+- Shows ability to translate research ideas into engineering pipelines
+
+---
+
+### 🤖 Internal Docs AI Agent — Enterprise RAG Knowledge Assistant
+
+An AI-powered Retrieval-Augmented Generation system designed to answer contextual queries from distributed internal documentation.
+
+🚀 Engineering Signals:
+
+- Semantic vector search and embedding retrieval
+- RAG pipeline architecture design
+- Multi-step AI agent workflow experimentation
+- Context-aware generation pipelines
+
+🧠 Why it matters:
+
+- Demonstrates modern AI engineering patterns
+- Simulates enterprise-scale knowledge systems
+- Shows applied understanding of LLM-driven architectures
+
+---
+<br/><br/>
 
 # FEATURED SYSTEMS
 
@@ -70,9 +120,11 @@ Focus Areas:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumanth1410-git&repo=internal-docs-agent&theme=tokyonight"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumanth1410-git&repo=human-transcriptomics-analysis&theme=tokyonight"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumanth1410-git&repo=mentalHealth&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumanth1410-git&repo=streetvendor-platform&theme=tokyonight"/>
 </p>
 
 ---
+<br/><br/>
 
 ## 1. SOLARIS-X: Geomagnetic Storm Prediction Engine
 
@@ -233,6 +285,7 @@ Impact:
 - Demonstrates applied engineering for real-world scenarios
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C1D95,100:065F46&section=footer"/>
 
 # TECH STACK
 
@@ -256,6 +309,12 @@ Machine Learning • Deep Learning • NLP • Transformers • RAG • AI Agent
 </p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=sumanth1410-git&label=Profile%20views&theme=tokyo-night&hide_border=true" alt="sumanth1410-git" /> 
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumanth1410-git&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumanth1410-git&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
