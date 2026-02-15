@@ -263,8 +263,22 @@ Machine Learning • Deep Learning • NLP • Transformers • RAG • AI Agent
 # CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sumanth1410-git/Sumanth1410-git/output/github-contribution-grid-snake.svg"/>
+<picture>
+
+<source 
+srcset="https://raw.githubusercontent.com/Sumanth1410-git/Sumanth1410-git/output/github-contribution-grid-snake-dark.svg"
+media="(prefers-color-scheme: dark)"
+/>
+
+<source 
+srcset="https://raw.githubusercontent.com/Sumanth1410-git/Sumanth1410-git/output/github-contribution-grid-snake-light.svg"
+/>
+
+<img src="https://raw.githubusercontent.com/Sumanth1410-git/Sumanth1410-git/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
 </p>
+
 
 ---
 
