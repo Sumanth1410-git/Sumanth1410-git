@@ -19,9 +19,13 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-NLP%20%7C%20Transformers-1E3A8A?style=for-the-badge"/>
 </p>
 
+<br/>
+
 <p align="center">
- Machine Learning • Generative AI • Intelligent Systems
+<b>Machine Learning • Generative AI • Intelligent Systems</b>
 </p>
+
+<br/><br/>
 
 ---
 
