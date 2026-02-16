@@ -30,9 +30,6 @@
 <br/><br/>
 
 ---
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=00F7FF&center=true&vCenter=true&width=600&lines=Let's+Build+Intelligent+Systems"/>
-</p>
 <!-- ================= SOCIAL LINKS ================= -->
 
 <p align="center">
@@ -52,11 +49,27 @@
 </a>
 
 </p>
+<br/><br/>
+
+<!-- ================= ELITE ENGINEER SIGNAL ================= -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Engineer%20Track-Systems%20Focused-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Production%20ML-7F1D1D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Building-Real%20World%20Systems-7F1D1D?style=for-the-badge"/>
+
+
+</p>
+
+<p align="center">
+<b>Building intelligent systems using Machine Learning, Generative AI, and Retrieval-Augmented architectures.</b>
+</p>
+<br/><br/>
 
 # 🧠 ABOUT ME
 
-Undergraduate exploring and building real-world AI systems while working toward becoming a professional AI engineer.
-
+AI engineering student focused on building production-oriented intelligent systems and applied ML architectures.
 Focus Areas:
 
 - Machine Learning Engineering
@@ -67,17 +80,6 @@ Focus Areas:
 
 ---
 
-# ENGINEERING SIGNALS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-6D28D9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Specialization-Machine%20Learning-065F46?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Building-Real%20World%20Systems-7F1D1D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Architecture-RAG%20%26%20AI%20Agents-1E3A8A?style=for-the-badge"/>
-</p>
-
----
-
 # ENGINEERING PHILOSOPHY
 
 - Build systems, not scripts  
@@ -85,6 +87,7 @@ Focus Areas:
 - Data-driven iteration
 - Research mindset with practical execution 
 ---
+<br/><br/>
 
 > 🧪 Selected flagship systems demonstrating applied AI engineering exploration.
 ## ⭐ Spotlight Engineering Projects
@@ -307,7 +310,7 @@ Impact:
 - Demonstrates applied engineering for real-world scenarios
 
 ---
-
+<br/><br/>
 # TECH STACK
 
 <p align="center">
@@ -362,6 +365,7 @@ srcset="https://raw.githubusercontent.com/Sumanth1410-git/Sumanth1410-git/output
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95AA,100:065F46AA&height=5"/>
 </p>
 
+<br/><br/>
 # 🎯 CURRENT FOCUS
 
 - Becoming industry-ready AI Engineer
