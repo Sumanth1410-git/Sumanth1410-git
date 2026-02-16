@@ -18,14 +18,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aspiring-AI%20Engineer-6D28D9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Production%20Focused-065F46?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Building-Real%20World%20Systems-7F1D1D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Generative%20AI-RAG%20%26%20Agents-7F1D1D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Production%20ML-7F1D1D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-NLP%20%7C%20Transformers-1E3A8A?style=for-the-badge"/>
 </p>
 <br/>
 
 <p align="center">
-<b>Machine Learning • Generative AI • Intelligent Systems</b>
+<b>Building intelligent systems using Machine Learning, Generative AI, and Retrieval-Augmented architectures.</b>
 </p>
 <br/><br/>
 
@@ -49,22 +50,7 @@
 </a>
 
 </p>
-<br/><br/>
 
-<!-- ================= ELITE ENGINEER SIGNAL ================= -->
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI%20Engineer%20Track-Systems%20Focused-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Production%20ML-7F1D1D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Building-Real%20World%20Systems-7F1D1D?style=for-the-badge"/>
-
-
-</p>
-
-<p align="center">
-<b>Building intelligent systems using Machine Learning, Generative AI, and Retrieval-Augmented architectures.</b>
-</p>
 <br/><br/>
 
 # 🧠 ABOUT ME
