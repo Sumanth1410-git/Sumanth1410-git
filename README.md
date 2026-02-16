@@ -36,7 +36,7 @@
 <!-- ================= SOCIAL LINKS ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=50&section=header&text=CONNECT%20WITH%20ME&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=50&section=header&text=CONNECT%20WITH%20ME&fontSize=20&fontColor=ffffff&animation=twinkling"/>
 
 <br>
 <a href="https://github.com/Sumanth1410-git">
