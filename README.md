@@ -30,6 +30,29 @@
 <br/><br/>
 
 ---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=00F7FF&center=true&vCenter=true&width=600&lines=Let's+Build+Intelligent+Systems"/>
+</p>
+<!-- ================= SOCIAL LINKS ================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=50&section=header&text=CONNECT%20WITH%20ME&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+<a href="https://github.com/Sumanth1410-git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/pitta-sumanth">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:sumanthp141005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
 # 🧠 ABOUT ME
 
 Undergraduate exploring and building real-world AI systems while working toward becoming a professional AI engineer.
@@ -62,16 +85,13 @@ Focus Areas:
 - Data-driven iteration
 - Research mindset with practical execution 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C1D95,100:065F46&section=footer"/>
-<br/><br/>
-
 
 > 🧪 Selected flagship systems demonstrating applied AI engineering exploration.
 ## ⭐ Spotlight Engineering Projects
 
 These projects represent my strongest exploration toward becoming an AI engineer — focusing on real-world system design, applied machine learning, and modern AI architectures.
 
----
+
 
 ### 🌌 SOLARIS-X — Geomagnetic Storm Prediction Engine
 
@@ -287,7 +307,6 @@ Impact:
 - Demonstrates applied engineering for real-world scenarios
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4C1D95,100:065F46&section=footer"/>
 
 # TECH STACK
 
@@ -351,15 +370,7 @@ srcset="https://raw.githubusercontent.com/Sumanth1410-git/Sumanth1410-git/output
 
 ---
 ⭐ Building toward becoming an AI engineer through real-world projects.
-## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/Sumanth1410-git">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
 <!--
 AI Engineer
 Machine Learning Engineer
