@@ -4,7 +4,8 @@
 
 <!-- Royal Aesthetic Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,40:4C1D95,70:065F46,100:7F1D1D&height=300&section=header&text=P%20Sumanth&fontSize=50&fontColor=FFD700&animation=fadeIn&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20Explorer&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,40:4C1D95,70:065F46,100:7F1D1D&height=300&section=header&text=P%20Sumanth&fontSize=50&fontColor=FFD700&animation=fadeIn&descAlignY=70"/>
+  <!--&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20Explorer-->
 </p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95AA,100:065F46AA&height=2"/>
