@@ -128,11 +128,11 @@ An AI-powered Retrieval-Augmented Generation system designed to answer contextua
 # FEATURED SYSTEMS
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumanth1410-git&repo=SOLARIS-X&theme=tokyonight"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumanth1410-git&repo=internal-docs-agent&theme=tokyonight"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumanth1410-git&repo=human-transcriptomics-analysis&theme=tokyonight"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumanth1410-git&repo=mentalHealth&theme=tokyonight"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sumanth1410-git&repo=streetvendor-platform&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=SOLARIS-X&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=internal-docs-agent&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=human-transcriptomics-analysis&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=mentalHealth&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=streetvendor-platform&theme=tokyonight"/>
 </p>
 
 ---
