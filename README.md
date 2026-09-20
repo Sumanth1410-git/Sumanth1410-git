@@ -125,15 +125,7 @@ An AI-powered Retrieval-Augmented Generation system designed to answer contextua
 </p>
 <br/><br/>
 
-# FEATURED SYSTEMS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=SOLARIS-X&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=internal-docs-agent&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=human-transcriptomics-analysis&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=mentalHealth&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth1410-git&repo=streetvendor-platform&theme=tokyonight"/>
-</p>
+# FEATURED PROJECTS
 
 ---
 <br/><br/>
@@ -316,9 +308,7 @@ Machine Learning • Deep Learning • NLP • Transformers • RAG • AI Agent
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanth1410-git&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanth1410-git&theme=tokyo-night&hide_border=true"/>
-</p>
+
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=sumanth1410-git&label=Profile%20views&theme=tokyo-night&hide_border=true" alt="sumanth1410-git" /> 
 </p>
